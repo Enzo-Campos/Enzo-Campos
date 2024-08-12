@@ -2,8 +2,7 @@
 
 
 - 🔭 Focando em Front-End e Desenvolvimento Web
-- 🌱 Aprendendo PHP 
-- ⚡ Fun fact: Sou músico 😁🤞
+- 🌱 Aprendendo React
 
 <div align="center">
   <a href="https://github.com/Enzo-Campos">
